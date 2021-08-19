@@ -11,8 +11,8 @@ Kelas G - Kelompok A :
 6. Andi Illa Erviani Nensi
 
 Image
--Background image/sk1.png = Free with attribution
+- Background image/sk1.png = Free with attribution
 
 Sound
--coin.wav = https://www.youtube.com/watch?v=mQSmVZU5EL4
--jump.wav = youtube
+- coin.wav = https://www.youtube.com/watch?v=mQSmVZU5EL4
+- jump.wav = youtube
