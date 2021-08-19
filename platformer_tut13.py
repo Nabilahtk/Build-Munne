@@ -19,15 +19,15 @@ pygame.display.set_caption('Platformer')
 
 
 #define font
-font = pygame.font.SysFont('Bauhaus 93', 70)
-font_score = pygame.font.SysFont('Bauhaus 93', 30)
+font = pygame.font.SysFont('Verdana', 70)
+font_score = pygame.font.SysFont('Verdana', 30)
 
 
 #define game variables
 tile_size = 50
 game_over = 0
 main_menu = True
-level = 1
+level = 5
 max_levels = 5
 score = 0
 
@@ -408,7 +408,7 @@ world = World(world_data)
 #create buttons
 restart_button = Button(screen_width // 2 - 50, screen_height // 2 + 100, restart_img)
 start_button = Button(screen_width // 2 - 350, screen_height // 2, start_img)
-exit_button = Button(screen_width // 2 + 150, screen_height // 2, exit_img)
+exit_button = Button(screen_width // 2 + 70, screen_height // 2, exit_img)
 
 
 run = True
